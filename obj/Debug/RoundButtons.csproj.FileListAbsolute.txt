@@ -1,0 +1,10 @@
+F:\YouTubing\C#\RoundButtons\bin\Debug\RoundButtons.exe.config
+F:\YouTubing\C#\RoundButtons\bin\Debug\RoundButtons.exe
+F:\YouTubing\C#\RoundButtons\bin\Debug\RoundButtons.pdb
+F:\YouTubing\C#\RoundButtons\obj\Debug\RoundButtons.Form1.resources
+F:\YouTubing\C#\RoundButtons\obj\Debug\RoundButtons.Properties.Resources.resources
+F:\YouTubing\C#\RoundButtons\obj\Debug\RoundButtons.csproj.GenerateResource.cache
+F:\YouTubing\C#\RoundButtons\obj\Debug\RoundButtons.exe
+F:\YouTubing\C#\RoundButtons\obj\Debug\RoundButtons.pdb
+F:\YouTubing\C#\RoundButtons\obj\Debug\RoundButtons.RoundButton.resources
+F:\YouTubing\C#\RoundButtons\obj\Debug\RoundButtons.csprojAssemblyReference.cache
